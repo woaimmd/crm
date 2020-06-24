@@ -1,0 +1,5 @@
+---------------------------------------------------------------
+[ 2020-06-24T18:47:12+08:00 ] 172.17.0.1 GET localhost/crm/admin/login/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000721s ] mysql:host=172.17.0.4;dbname=crm;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `tp_app` [ RunTime:0.002072s ]
+[ sql ] [ SQL ] SELECT * FROM `tp_app` WHERE  `appId` = 'ty9fd2848a039ab554' LIMIT 1 [ RunTime:0.000732s ]
